@@ -1,0 +1,19 @@
+{
+	"name":"cursoSON/mvc",
+	"require":{
+		"php":">=7"
+	},
+	"authors":[
+		{
+			"name":"Luis Gustavo",
+			"email":"luis.sales@iff.edu.br"
+		}
+	],
+	"autoload":{
+		"psr-4":{
+			"myframes\\":"vendor/myframes/",
+			"App\\":"App/"
+		}
+	}
+}
+
